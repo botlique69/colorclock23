@@ -1,6 +1,10 @@
+ * {
+     margin: 0;
+     padding: 0;/*reset féle*/
+ }
 html,
 body {
-    height: 100%;
+    height: 100%; /*azért,mert egy elemet a közepére akarjuk helyezni*/
 }
 #color-clock {
     text-align: center;
@@ -9,5 +13,6 @@ body {
     font-family:Rubik Doodle Triangles;
     font-size: 3rem;
     color:aqua;
+    margin-top: -1.5rem;/*mivel lejjebb csúszott a vertikális közepétől a az óra "3rem" magassága miatt,így a felével növeltük*/
     
 }
