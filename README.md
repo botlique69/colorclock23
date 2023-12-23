@@ -2,3 +2,4 @@
 színóra próba
 gyakorlás
 próba pull
+style.css
