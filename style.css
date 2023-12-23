@@ -5,6 +5,9 @@ body {
 #color-clock {
     text-align: center;
     position:relative;
-    top: 50%
+    top: 50%;
+    font-family:Rubik Doodle Triangles;
+    font-size: 3rem;
+    color:aqua;
     
 }
