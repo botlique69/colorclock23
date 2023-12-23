@@ -10,7 +10,7 @@ body {
     /*azért,mert egy elemet a közepére akarjuk helyezni*/
 }
 
-#color-clock {
+#clock {
     text-align: center;
     position: relative;
     top: 50%;
