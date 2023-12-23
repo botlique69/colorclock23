@@ -1,3 +1,7 @@
 var date = new Date();
 var hours = date.getHours();
-console.log(hours);
+var minutes = date.getMinutes();
+var seconds = date.getSeconds();
+var clockFace = hours + ':' + minutes + ':' + seconds;
+document.getElementById('color-clock').innerHTML = clockFace;
+console.log(clockFace);
