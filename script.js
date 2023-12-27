@@ -18,4 +18,4 @@ var clockFace = hours + ':' + minutes + ':' + seconds;
 document.getElementById('clock').innerHTML = clockFace;
 console.log(clockFace);
 }
-colorClock();
+colorclock();
